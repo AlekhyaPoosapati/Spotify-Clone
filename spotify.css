@@ -262,7 +262,7 @@ select
 {
     display: flex;
     background-color: black;
-    margin-left: 220px;
+    margin-left: 250px;
     margin-top: 10px;
     color: white;
     border: none;
@@ -357,6 +357,7 @@ select
 .last
 {
     display:block;
+    margin-top:20px;
 }
 .mob
 {
