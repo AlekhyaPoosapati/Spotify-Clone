@@ -262,7 +262,7 @@ select
 {
     display: flex;
     background-color: black;
-    margin-left: 250px;
+    margin-left: 260px;
     margin-top: 10px;
     color: white;
     border: none;
@@ -294,7 +294,7 @@ select
 }
 .dm
 {
-    font-size: 7px;
+    font-size: 10px;
 }
 .para
 {
@@ -357,7 +357,7 @@ select
 .last
 {
     display:block;
-    margin-top:40px;
+    margin-top: 40px;
 }
 .mob
 {
